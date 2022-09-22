@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "delay.h": "c",
+        "print.h": "c",
+        "rf.h": "c",
+        "tim.h": "c",
+        "gpio.h": "c",
+        "usart.h": "c"
+    }
+}
